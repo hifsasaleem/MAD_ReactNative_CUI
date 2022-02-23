@@ -1,0 +1,29 @@
+JavaScript Tutorial for Beginners - Full Course in 8 Hours
+Implemented :
+Remaining :
+3:57 - How to run your first Program with Javascript      
+7:17 - Manipulate the DOM 
+15:49 - Numbers in Javascript
+22:18 - Functions in Javascript
+33:31 - While vs. For Loops in Javascript
+39:10 - Data Types in Javascript
+43:26 - Strings (Common Methods) 
+52:07 - Javascript in Arrays
+1:11:07 - Objects in Javascript
+1:18:18 - If else conditionals and switch statements
+1:31:07 - Learn JSON in 5 minutes
+1:36:41 - Challenge: Your age in days
+2:10:07 - Challenge: Cat Generator
+2:42:19 - Challenge: Rock Paper Scissors 
+2:58:28 - Challenge: Rock Paper Scissors PT. 2
+3:57:46 - Challenge: Change Button Colors
+4:39:48 - How Blackjack Works 
+4:45:23 - Blackjack HTML
+5:05:14 - CSS Blackjack 
+5:28:47 - Challenge: Build a Blackjack Game with Javascript
+6:06:58 - Blackjack PT. 2
+6:35:42 - Blackjack PT. 3
+7:03:29 - Blackjack PT. 4
+7:22:08 - Blackjack PT. 5 
+7:39:19 - Blackjack PT. 6
+7:47:56 - Blackjack PT 7
