@@ -1,10 +1,12 @@
 JavaScript Tutorial for Beginners - Full Course in 8 Hours
 Implemented :
-3:57 - How to run your first Program with Javascript      
-
-Remaining :
+3:57 - How to run your first Program with Javascript 
 7:17 - Manipulate the DOM 
 15:49 - Numbers in Javascript
+
+
+Remaining :
+
 22:18 - Functions in Javascript
 33:31 - While vs. For Loops in Javascript
 39:10 - Data Types in Javascript
