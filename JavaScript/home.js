@@ -37,14 +37,14 @@ console.log(someNumber);
        alert("This is the Function ");
    }
 
-   fun();
-   var name = prompt("Whats is your name?");
+   //fun();
+  // var name = prompt("Whats is your name?");
    function greeting(nameInput){
        var result = "Hello  " + nameInput;
        console.log(result);
    }
     
-   greeting(name);
+  // greeting(name);
 
 
    //How do argument work in functions?
@@ -78,8 +78,28 @@ console.log(someNumber);
      
      let Age = 22; //number
      let  Name = 'Hifsa' //string 
-     let  name= {first:"Hifsa" , last:"Saleem"}; //object 
+     let  fullname= {first:"Hifsa" , last:"Saleem"}; //object 
      let truth = false; //boolean 
      let groceries = ['apple', 'banana' , 'oranges']; //array 
      let random; //undefined
      let nothing= null; //value null 
+
+     //Strings  in JavaScript (Common Mthods)
+      let fruit = "banana";
+      let moreFruits = "banana\napple" // newline 
+      console.log(fruit.length);
+      console.log(fruit.indexOf('nan'));
+      console.log(fruit.slice(2,6));
+      console.log(fruit.replace("ban",123));
+      console.log(fruit.toUpperCase());
+      console.log(fruit.toLowerCase());
+      console.log(fruit.charAt(2));
+      console.log(fruit[1]);
+      let fruits = "banana,apple,orange,blackberry";
+      console.log(fruit.split('')); //split by characters 
+      console.log(fruits.split(',')); //split by comma 
+
+
+
+
+

@@ -6,13 +6,14 @@ Implemented :
 22:18 - Functions in Javascript
 33:31 - While vs. For Loops in Javascript
 39:10 - Data Types in Javascript
+43:26 - Strings (Common Methods) 
+
 
 
 
 Remaining :
 
 
-43:26 - Strings (Common Methods) 
 52:07 - Javascript in Arrays
 1:11:07 - Objects in Javascript
 1:18:18 - If else conditionals and switch statements
