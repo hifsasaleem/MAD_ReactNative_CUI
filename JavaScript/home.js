@@ -73,3 +73,13 @@ console.log(someNumber);
     {
         console.log(num);
     }
+
+    //Data Types 
+     
+     let Age = 22; //number
+     let  Name = 'Hifsa' //string 
+     let  name= {first:"Hifsa" , last:"Saleem"}; //object 
+     let truth = false; //boolean 
+     let groceries = ['apple', 'banana' , 'oranges']; //array 
+     let random; //undefined
+     let nothing= null; //value null 
