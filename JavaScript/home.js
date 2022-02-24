@@ -60,3 +60,16 @@ console.log(someNumber);
    sumNumbers('10','10');
    sumNumbers("Hello "," HIFSA");
    
+   //while loops
+
+   var num = 0 ;
+   while (num < 10 ){
+       num += 1;
+       console.log(num);
+   }
+    //For loop
+
+    for (let num = 0 ; num < 10 ; num++)
+    {
+        console.log(num);
+    }

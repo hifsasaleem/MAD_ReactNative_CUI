@@ -4,12 +4,13 @@ Implemented :
 7:17 - Manipulate the DOM 
 15:49 - Numbers in Javascript
 22:18 - Functions in Javascript
+33:31 - While vs. For Loops in Javascript
+
 
 
 Remaining :
 
 
-33:31 - While vs. For Loops in Javascript
 39:10 - Data Types in Javascript
 43:26 - Strings (Common Methods) 
 52:07 - Javascript in Arrays
