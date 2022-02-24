@@ -38,12 +38,25 @@ console.log(someNumber);
    }
 
    fun();
-
-   function greeting(){
-       var name = prompt("Whats is your name?");
-       var result = "Hello  " + name;
+   var name = prompt("Whats is your name?");
+   function greeting(nameInput){
+       var result = "Hello  " + nameInput;
        console.log(result);
    }
     
-   greeting();
+   greeting(name);
 
+
+   //How do argument work in functions?
+
+   //adding two numbers in function 
+
+   function sumNumbers(num1,num2){
+       var result = num1 + num2 ;
+       console.log(result); 
+   }
+
+   sumNumbers(10,10);
+   sumNumbers('10','10');
+   sumNumbers("Hello "," HIFSA");
+   
