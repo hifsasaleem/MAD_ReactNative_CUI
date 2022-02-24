@@ -32,3 +32,18 @@ console.log(someNumber);
   
 
 
+  //Functions 
+   function fun(){
+       alert("This is the Function ");
+   }
+
+   fun();
+
+   function greeting(){
+       var name = prompt("Whats is your name?");
+       var result = "Hello  " + name;
+       console.log(result);
+   }
+    
+   greeting();
+
