@@ -101,5 +101,74 @@ console.log(someNumber);
 
 
 
+      //Array
+
+      let Fruits = ['banana','apple','orange','pineapple'];
+      Fruits = new Array('banana','mango','orange','pineapple');
+
+      console.log(Fruits[1]);
+      console.log(Fruits);
+
+      Fruits[0] = 'pear';
+      console.log(Fruits);
+
+      for(let i=0 ; i < Fruits.length ;  i++)
+      {
+          console.log(Fruits[i]);
+      }
+
+      //Array Common Methods 
+     console.log('to String ',Fruits.toString());
+     console.log(Fruits.join(' * '));
+     console.log(Fruits.join(' - '));
+     console.log(Fruits,Fruits.pop(),Fruits); //remove last items
+     console.log(Fruits.push('blackberries '),Fruits);  // 
+     Fruits[Fruits.length] = 'Strawberry'; //same as push
+     console.log(Fruits);
+
+     Fruits.shift(); //remove first element from a array
+     console.log(Fruits);
+
+     Fruits.unshift('kiwi'); //add first element to a array
+     console.log(Fruits);
+
+
+     let Vegetables = [ 'asparagus' , 'tomato' ,'brocoli'];
+      let alGloceries = Fruits.concat(Vegetables); 
+      console.log(alGloceries);
+      console.log(alGloceries.slice(1,4));
+
+      console.log(alGloceries.reverse());
+      console.log(alGloceries.sort());
+
+
+
+      let someNumbers = [5,10,2,25,3,255,1,2,5,334,321,2];
+      console.log(someNumbers.sort());
+      console.log(someNumbers.sort(function(a,b){ return a-b})); //sorted in ascending  order
+      console.log(someNumbers.sort(function(a,b){ return b-a})); //sorted in descending  order
+
+
+      let emptyArray = new Array();
+       for (let num = 0 ; num < 10 ; num++){
+           emptyArray.push(num);
+       }
+       console.log(emptyArray);
+
+
+
+
+
+
+
+
+
+
+
+      
+
+
+
+
 
 
