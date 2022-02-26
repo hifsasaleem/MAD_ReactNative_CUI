@@ -150,10 +150,28 @@ console.log(someNumber);
 
 
       let emptyArray = new Array();
-       for (let num = 0 ; num < 10 ; num++){
-           emptyArray.push(num);
+       for (let num1 = 0 ; num1 < 10 ; num1++){
+           emptyArray.push(num1);
        }
        console.log(emptyArray);
+
+
+       //Objects in JavaScript 
+       //dictionaries in Python
+
+       let student = {
+           first: 'Hifsa', 
+           last: 'Saleem',
+           age: 23,
+           studentInfo: function(){
+               return this.first + '\n' + this.last; 
+           }
+        };
+       console.log(student.first);
+       
+       student.first = 'notHifsa';
+       console.log(student.first);
+       console.log(student.studentInfo()    );
 
 
 

@@ -8,6 +8,8 @@ Implemented :
 39:10 - Data Types in Javascript
 43:26 - Strings (Common Methods) 
 52:07 - Javascript in Arrays
+1:11:07 - Objects in Javascript
+
 
 
 
@@ -16,7 +18,6 @@ Implemented :
 Remaining :
 
 
-1:11:07 - Objects in Javascript
 1:18:18 - If else conditionals and switch statements
 1:31:07 - Learn JSON in 5 minutes
 1:36:41 - Challenge: Your age in days
