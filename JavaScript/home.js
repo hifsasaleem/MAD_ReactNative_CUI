@@ -171,10 +171,42 @@ console.log(someNumber);
        
        student.first = 'notHifsa';
        console.log(student.first);
-       console.log(student.studentInfo()    );
+       console.log(student.studentInfo());
 
 
+       //Conditionals , Controls flows (if else)
+       //18-35 is my Target
+       var Tage = 23;
+       if((Tage>=18) && (Tage <=35)){
+           result = "Target demo"; 
+       }
+       else{
+           result = "Not in Target";
+       }
+       console.log(result)
 
+
+    //switch statements
+    //differentiate between weekday vs weekend
+    /*
+     day 0 -->  Sunday --> weekend
+     day 6 -->  saturday --> weekend
+     day 4 --> Thursday --> weekday    */  
+      let day = 1; 
+
+    switch(day){
+        case 0:
+            text = 'weekend';
+            break;
+        case 5:
+            text = 'weekend';
+            break;
+        case 6:
+            text='weekend';
+        default:
+            text = 'weekday';
+    }
+    console.log(text);
 
 
 
